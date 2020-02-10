@@ -19,5 +19,9 @@ Sentiment classification of movie reviews using RNN, LSTM, GRU and CNN using ran
 * [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/)
   > Download the version: Main zip file with readme (6mb). Introduced by Recursive Deep Models for Semantic Compositionality Over a Sentiment TreebankRichard Socher, Alex Perelygin, Jean Wu, Jason Chuang, Christopher Manning, Andrew Ng and Christopher Potts Conference on Empirical Methods in Natural Language Processing (EMNLP 2013)
   
-Reviews from the Stanford Sentiment Treebank were used and the labelling was done using the sentiment polarity of those in Sentiment polarity dataset. Sentences present in both were used for our neural nets.
+Reviews from the Stanford Sentiment Treebank were used and the labelling was done using the sentiment polarity of those in Sentiment polarity dataset. Sentences present in both were used for our neural nets after annotation.
+
+### Credits:
+* Ideas for implementing RNN, LSTM and GRU: https://github.com/roomylee/rnn-text-classification-tf
+* Ideas for implementing CNN: https://github.com/davidsbatista/ConvNets-for-sentence-classification
 
