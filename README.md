@@ -1,6 +1,9 @@
 # Sentiment analysis for movie reviews using Deep neural networks
 
-Sentiment classification of movie reviews using RNN, LSTM, GRU and CNN using randomized or GloVe word embeddings. 
+Sentiment classification of movie reviews using RNN, LSTM, GRU and CNN using randomized or GloVe word embeddings. Part of Deep learning for NLP course taken with [Prof. Cornelia Caragea](https://cs.uic.edu/~cornelia/) in Fall 19 semester at the University of Illinois at Chicago.
+
+* as2_dl4nlp.ipynb : Models for RNN, LSTM and GRU with results using Tensorflow.
+* as3_dl4nlp.ipynb : Models for CNN with results using keras.
 
 ### Requirements:
 * Tensorflow v1.0
