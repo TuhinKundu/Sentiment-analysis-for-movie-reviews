@@ -12,5 +12,9 @@ Sentiment classification of movie reviews using RNN, LSTM, GRU and CNN using ran
   
 ### Dataset Used:
 * [Sentiment polarity dataset](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
-  > Download the files in sentence polarity dataset v1.0. 
-  > Bo Pang and Lillian Lee, Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales, Proceedings of ACL 2005.
+  > Download the files: sentence polarity dataset v1.0. Introduced by Bo Pang and Lillian Lee, Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales, Proceedings of ACL 2005.
+* [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/)
+  > Download the version: Main zip file with readme (6mb). Introduced by Recursive Deep Models for Semantic Compositionality Over a Sentiment TreebankRichard Socher, Alex Perelygin, Jean Wu, Jason Chuang, Christopher Manning, Andrew Ng and Christopher Potts Conference on Empirical Methods in Natural Language Processing (EMNLP 2013)
+  
+Reviews from the Stanford Sentiment Treebank were used and the labelling was done using the sentiment polarity of those in Sentiment polarity dataset. Sentences present in both were used for our neural nets.
+
